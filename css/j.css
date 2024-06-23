@@ -1,0 +1,21 @@
+﻿h1
+{
+	border:5px solid brown;
+	width:50%;
+	background-color:blue;
+}
+#outer{
+	height:300px;
+	width:300px;
+	background-color:yellow;
+	margin:50px;
+}
+#inner{
+	height:100px;
+	width:100px;
+	background-color:red;
+	margin:20
+	
+	
+	;
+}

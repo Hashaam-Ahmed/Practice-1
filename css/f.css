@@ -1,0 +1,18 @@
+﻿h2
+{
+	display:inline;
+	background-color:blue;
+	border:2px solid black;
+	margin-top:30px;
+	padding:40px;
+	
+}
+span{
+	display:block;
+	background-color:yellow;
+	border:2px solid black;
+	margin-top:30px;
+	padding:40px;
+	height:100px;
+	width:50px;
+}

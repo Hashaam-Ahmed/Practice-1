@@ -1,0 +1,17 @@
+﻿div
+{
+	background-color:yellow;
+	height:200px;
+	width:100px;
+	border-right-width:10px;
+	border-right-style: solid;
+	border-right-color: black;
+
+}
+div{
+	height:200px;
+	width:100px;
+	background-color:green;
+	border-left:7px dashed blue;
+	
+}

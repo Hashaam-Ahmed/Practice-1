@@ -1,0 +1,11 @@
+﻿button
+{
+	font-size:100px;
+	border-radius:20px;
+	border:6px solid blue;
+	padding-left:2em;
+	padding-right:2em;
+}
+div{
+	font-size:2rem;
+}

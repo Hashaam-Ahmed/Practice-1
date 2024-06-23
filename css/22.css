@@ -1,0 +1,24 @@
+﻿h1
+{
+	background-color:yellow;
+	border:2px solid black;
+}
+@media(min-width:400px) and (max-width:500px){
+	h1{
+	background-color:red;
+	color:white;
+}
+div{
+	height:100px;
+	width:100px;
+	background-color:blue;
+}
+}
+@media(orientation:landscape){
+div{
+	height:100px;
+	width:100px;
+	background-color:orange;
+}
+
+}
